@@ -17,4 +17,4 @@ In this paper, the micro-expression occurrence interval is analyzed according to
   
 ## Acknowledgements
 
-Our article was inspired by the work of HE Yuhong ([Research on Micro-Expression Spotting Method Based on Optical Flow Features](https://dl.acm.org/doi/10.1145/3474085.3479225)), and the code can be downloaded [here].(https://github.com/hitheyuhong/micro-expression-spotting-challenge/tree/e6fd67de3c10a8bd7647501742e40ee4ef4c3d12)
+Our article was inspired by the work of HE Yuhong ([Research on Micro-Expression Spotting Method Based on Optical Flow Features](https://dl.acm.org/doi/10.1145/3474085.3479225)), and the code can be downloaded [here](https://github.com/hitheyuhong/micro-expression-spotting-challenge/tree/e6fd67de3c10a8bd7647501742e40ee4ef4c3d12).
