@@ -1,0 +1,9 @@
+matplotlib
+scipy
+xlrd
+xlwt
+
+bayesian-optimization
+cv2
+dlib
+EMD-signal
