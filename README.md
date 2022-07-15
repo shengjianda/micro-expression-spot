@@ -13,8 +13,8 @@ In this paper, the micro-expression occurrence interval is analyzed according to
 
 ## Related Datasets
 
-[CAS(ME2)](https://paperswithcode.com/dataset/casme-ii) 
-[SAMM](http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php)
+- [CAS(ME2)](https://paperswithcode.com/dataset/casme-ii)
+- [SAMM](http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php)
 
   
 ## Acknowledgements
