@@ -324,12 +324,12 @@ def main_samml(le_p_kwargs, re_p_kwargs, mth_p_kwargs, ns_p_kwargs, ll_p_kwargs,
 
 def main():
     t_flow_percent = {
-        't_tip_p': 0.7,
-        't_le_p': 0.2,
-        't_re_p': 0.3,
-        't_mth_tp': 0.3,
-        't_mth_pp': 0.2,
-        't_ns_p': 0.2,
+        't_tip_p': 0.68726687,
+        't_le_p': 0.180330275,
+        't_re_p': 0.180330275,
+        't_mth_tp': 0.329587946,
+        't_mth_pp': 0.196391502,
+        't_ns_p': 0.253253899,
         't_ll_p': 0.3,
         't_rl_p': 0.3,
     }
@@ -344,12 +344,12 @@ def main():
             'l_small_expend': int(fps / 3),           # frame lse
             'l_split': int(fps * 2 / 3),              # frame ls
             'bound_ignore': int(fps * 4 / 15),        # frame
-            't_peak_valley_ratio': 0.33,              # ratio r1
-            't_peak_ratio': 0.33,                     # ratio r2
-            't_valley_gap': 0.3 * flow_scale,         # pixel vg
-            't_peak_relative_inf': 1.4 * flow_scale,  # pixel pri
-            't_peak_inf': 0.7 * flow_scale,           # pixel pi
-            't_ext_gap': 0.8 * flow_scale,            # pixel emd signal gap
+            't_peak_valley_ratio': 0.244599954,       # ratio r1
+            't_peak_ratio': 0.284047166,              # ratio r2
+            't_valley_gap': 0.53090293 * flow_scale,  # pixel vg
+            't_peak_relative_inf': 2.697395567 * flow_scale,  # pixel pri
+            't_peak_inf': 0.75216054 * flow_scale,    # pixel pi
+            't_ext_gap': 0.939653349 * flow_scale,    # pixel emd signal gap
             'frequency_inf': 1,                       #
             'frequency_sup': 5,                       #
         }
