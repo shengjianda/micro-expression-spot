@@ -2,7 +2,7 @@
 
 ## Related Paper
 
-The project is the sorcecode for the paper of *"Rethinking Optical Flow Methods for Micro-Expression Spotting"*, which is submitted to [ACMMM 2022 Conference : Grand Challenges](https://openreview.net/group?id=acmmm.org/ACMMM/2022/Track/Grand_Challenges).
+The project is the source code for the paper of *"Rethinking Optical Flow Methods for Micro-Expression Spotting"*, which is submitted to [ACMMM 2022 Conference : Grand Challenges](https://openreview.net/group?id=acmmm.org/ACMMM/2022/Track/Grand_Challenges).
   
 ## Introduction
   
