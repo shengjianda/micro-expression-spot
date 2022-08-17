@@ -18,6 +18,8 @@ Here shows some results after improve the algorithm, which is better than the re
 
 fig shows the prediction of video 16_0101disgustingteeth in [CAS(ME)^2](http://fu.psych.ac.cn/CASME/cas(me)2-en.php). Boxes with filled color are the ground truth, and blank is the predictions.
 
+[![video](https://tse2-mm.cn.bing.net/th/id/OIP-C.ElUUdHUGItPGnKm09y8u1AHaFj?w=277&h=208&c=7&r=0&o=5&pid=1.7)](https://github.com/shengjianda/micro-expression-spot/blob/main/results/analysis.mp4)
+
 <video id="video">  
     <source id="mp4" src="results/analysis.mp4" type="video/mp4">
 </video>
